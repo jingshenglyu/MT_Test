@@ -1,0 +1,2 @@
+mbot_description:mbot_gazebo:mbot_navigation:mbot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/jingsheng/catkin_ws_J/devel -DCMAKE_INSTALL_PREFIX=/home/jingsheng/catkin_ws_J/install -G Unix Makefiles
